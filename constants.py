@@ -1,0 +1,23 @@
+LAS_CLASSIFICATION_CODES = {
+    '0': 'Never Classified',
+    '1': 'Unassigned',
+    '2': 'Ground',
+    '3': 'Low Vegetation',
+    '4': 'Medium Vegetation',
+    '5': 'High Vegetation',
+    '6': 'Building',
+    '7': 'Noise',
+    '8': 'Model Key - Reserved',
+    '9': 'Water',
+    '10': 'Rail',
+    '11': 'Road Surface',
+    '12': 'Overlap - Reserved',
+    '13': 'Wire - Guard',
+    '14': 'Wire - Conductor',
+    '15': 'Transmission Tower',
+    '16': 'Wire Connector',
+    '17': 'Bridge Deck',
+    '18': 'High Noise',
+    '19': 'Reserved',
+    '20': 'Reserved'
+}
