@@ -135,8 +135,9 @@ dmypy.json
 .vscode
 .vs
 
-# Jetbrains / Pycharm 
+# Jetbrains / Pycharm
 .idea
+.idea/
 
 
 
